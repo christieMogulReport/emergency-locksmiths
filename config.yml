@@ -1,0 +1,17 @@
+site_name: Emergency Locksmith Guide
+site_tagline: Locked out at 2 a.m.? Real prices, scam warnings, and what to ask before anyone comes to your door.
+site_description: "Plain-English guides to 24-hour and emergency locksmiths: what lockouts (home, car, business) and after-break-in rekeying really cost, how to spot locksmith scams, and the questions to ask before you book."
+site_owner: Black Swan Sibyl
+language: en
+
+# Absolute site origin, no trailing slash. Not deployed yet: leave empty until a domain is chosen
+# (sister sites use <niche>.christiejustice.com, e.g. https://locksmith.christiejustice.com).
+base_url: ""
+
+# Empty because the site will be served from the domain root.
+base_path: ""
+
+# No affiliate links are published yet. When the first one is added, set this to a
+# disclosure sentence (for example: "Some links on this site are affiliate links. If you buy
+# through them we may earn a commission at no extra cost to you.").
+affiliate_disclosure: ""
