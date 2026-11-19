@@ -3,7 +3,7 @@
 Ranked by **expected** search demand (high-intent, everyday problems first). These are editorial estimates, not measured volumes: before writing each page, sanity-check with Google autocomplete/"People also ask". Every page needs sourced prices and a scam-avoidance angle. Mark `[x]` when published.
 
 - [x] 1. Locked out of your house at night: what to do and what an emergency locksmith costs (`locked-out-of-house-at-night-cost`)
-2. Locked keys in your car: what to do and what an emergency car lockout costs
+- [x] 2. Locked keys in your car: what to do and what an emergency car lockout costs (`locked-keys-in-car-lockout-cost`)
 3. How to tell if a locksmith is a scam (the full checklist, printable)
 4. How much does a locksmith cost? Price list by job (lockout, rekey, replace, car keys)
 5. How to find a legitimate 24-hour locksmith near you (verify address, licence, vehicle)
