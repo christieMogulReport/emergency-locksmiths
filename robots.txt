@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://locksmith.christiejustice.com/sitemap.xml
