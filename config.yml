@@ -6,7 +6,7 @@ language: en
 
 # Absolute site origin, no trailing slash. Not deployed yet: leave empty until a domain is chosen
 # (sister sites use <niche>.christiejustice.com, e.g. https://locksmith.christiejustice.com).
-base_url: ""
+base_url: "https://locksmith.christiejustice.com"
 
 # Empty because the site will be served from the domain root.
 base_path: ""
