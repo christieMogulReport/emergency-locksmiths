@@ -47,6 +47,8 @@ Rekeying after a break-in and car and business lockouts will get their own pages
 
 ## Locksmith scam warning signs
 
+For every check in one place, including a printable version, see [How to tell if a locksmith is a scam: the full checklist](/how-to-tell-if-locksmith-is-scam-checklist/).
+
 Locksmith scams are a well-documented "bait-and-switch." Government and consumer groups describe the same pattern again and again:
 
 - **A rock-bottom phone quote.** The Better Business Bureau describes quotes "as low as $15." The South Carolina Department of Consumer Affairs says a quote of $10 or $20 "is indicative of a scam." In a lawsuit, the Ohio Attorney General said consumers were told $19 and the real price "regularly turned out to be much higher" ([BBB](https://www.bbb.org/article/news-releases/22797-bbb-scam-alert-locked-out-dont-fall-for-a-locksmith-cons), [SC Consumer Affairs](https://www.consumer.sc.gov/sites/consumer/files/Documents/News/2014/14008.pdf), [Ohio AG](https://www.ohioattorneygeneral.gov/Media/Newsletters/Consumer-Advocate/August-2016/Beware-Searching-for-Local-Locksmiths-May-Lead)). The low number is only the trip fee, and the "labor" and "complications" get added on arrival.

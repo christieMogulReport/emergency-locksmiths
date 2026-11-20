@@ -67,6 +67,8 @@ We read recent posts on X and lockout threads on Reddit. The same few themes kee
 
 ## Locksmith scam warning signs
 
+For every check in one place, including a printable version, see [How to tell if a locksmith is a scam: the full checklist](/how-to-tell-if-locksmith-is-scam-checklist/).
+
 Government and consumer groups describe the same pattern:
 
 - **A rock-bottom phone quote.** The BBB describes quotes "as low as $15" that grow once the locksmith arrives, as they find "reasons" to raise the price ([BBB](https://www.bbb.org/article/news-releases/22797-bbb-scam-alert-locked-out-dont-fall-for-a-locksmith-cons)). The low number is usually only the trip fee.

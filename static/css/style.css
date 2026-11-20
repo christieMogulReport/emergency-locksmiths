@@ -252,3 +252,12 @@ footer.site .credit {
 .prose table { width: 100%; border-collapse: collapse; margin: 1.25rem 0; font-size: 0.95rem; display: block; overflow-x: auto; }
 .prose th, .prose td { border: 1px solid #d9d9d9; padding: 0.5rem 0.65rem; text-align: left; vertical-align: top; }
 .prose th { background: #f3f3f3; }
+
+/* Print: checklists print cleanly */
+@media print {
+  .skip, header.site, footer.site { display: none; }
+  body { font-size: 11pt; color: #000; background: #fff; }
+  .prose a { color: #000; text-decoration: none; }
+  .prose h2, .prose h3 { break-after: avoid; }
+  .prose li { break-inside: avoid; }
+}
