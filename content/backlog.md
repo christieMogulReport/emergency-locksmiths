@@ -5,7 +5,7 @@ Ranked by **expected** search demand (high-intent, everyday problems first). The
 - [x] 1. Locked out of your house at night: what to do and what an emergency locksmith costs (`locked-out-of-house-at-night-cost`)
 - [x] 2. Locked keys in your car: what to do and what an emergency car lockout costs (`locked-keys-in-car-lockout-cost`)
 - [x] 3. How to tell if a locksmith is a scam (the full checklist, printable) (`how-to-tell-if-locksmith-is-scam-checklist`)
-4. How much does a locksmith cost? Price list by job (lockout, rekey, replace, car keys)
+- [x] 4. How much does a locksmith cost? Price list by job (lockout, rekey, replace, car keys) (`locksmith-cost-price-list`)
 5. How to find a legitimate 24-hour locksmith near you (verify address, licence, vehicle)
 6. Rekey vs. replace locks: which to choose and what each costs
 7. Rekeying your locks after a break-in: what to do in the first 24 hours
