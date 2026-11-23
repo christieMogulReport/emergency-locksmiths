@@ -7,7 +7,7 @@ Ranked by **expected** search demand (high-intent, everyday problems first). The
 - [x] 3. How to tell if a locksmith is a scam (the full checklist, printable) (`how-to-tell-if-locksmith-is-scam-checklist`)
 - [x] 4. How much does a locksmith cost? Price list by job (lockout, rekey, replace, car keys) (`locksmith-cost-price-list`)
 - [x] 5. How to find a legitimate 24-hour locksmith near you (verify address, licence, vehicle) (`how-to-find-legitimate-24-hour-locksmith`)
-6. Rekey vs. replace locks: which to choose and what each costs
+- [x] 6. Rekey vs. replace locks: which to choose and what each costs (`rekey-vs-replace-locks-cost`)
 7. Rekeying your locks after a break-in: what to do in the first 24 hours
 8. Lost your keys: should you rekey? (and what if your address was on the keychain)
 9. Car key replacement when all keys are lost: locksmith vs. dealer cost
