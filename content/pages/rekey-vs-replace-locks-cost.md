@@ -21,7 +21,7 @@ Both leave you with a lock the old keys can't open. The question is whether the 
 
 | Your situation | Usually | Why |
 | --- | --- | --- |
-| Lost your keys, or they were stolen | **Rekey** | The lock is fine; the problem is who has a key. Angi and HomeGuide both list lost keys as a reason to rekey. |
+| Lost your keys, or they were stolen | **Rekey** | The lock is fine; the problem is who has a key. Angi and HomeGuide both list lost keys as a reason to rekey. See [lost your keys: should you rekey?](/lost-keys-should-you-rekey/) |
 | Just moved into a home or apartment | **Rekey** (or replace if the locks are worn) | You can't know how many copies the last owner handed out ([HomeGuide](https://homeguide.com/costs/cost-to-change-locks)). Renters: check your lease and ask the landlord first. |
 | Roommate, ex, cleaner, or sitter still has a key | **Rekey** | Angi lists changing service providers who hold a key as a reason to rekey ([Angi](https://www.angi.com/articles/should-you-replace-or-rekey-locks.htm)). |
 | Lock was forced, pried, or drilled in a break-in | **Replace** the damaged lock | HomeGuide says replacement is the better choice when a lock is "old, damaged, or no longer functioning properly." Angi says to rekey immediately after a break-in, and to act the same way if a lock is damaged. |

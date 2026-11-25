@@ -28,7 +28,7 @@ Angi's advice is blunt: "If you experience a break-in or a house key has gone mi
 
 | What happened | Usually | Why |
 | --- | --- | --- |
-| Keys, a spare, or a bag with keys was **taken** | **Rekey every lock** those keys open | The burglar may have a working key. SafeWise lists rekeying first when keys are stolen ([SafeWise](https://www.safewise.com/lifestyle/home-security-systems/what-to-do-in-24-hours-after-burglary/)). |
+| Keys, a spare, or a bag with keys was **taken** | **Rekey every lock** those keys open | The burglar may have a working key. SafeWise lists rekeying first when keys are stolen ([SafeWise](https://www.safewise.com/lifestyle/home-security-systems/what-to-do-in-24-hours-after-burglary/)). More: [lost or stolen keys](/lost-keys-should-you-rekey/). |
 | Entry with **no sign of force** (a hidden spare, an unlocked door, or unknown) | **Rekey** the exterior locks | You can't rule out a copied or found key; Angi says to rekey right after a break-in ([Angi](https://www.angi.com/articles/should-you-replace-or-rekey-locks.htm)). |
 | A lock was **forced, pried, or drilled** | **Replace that lock**, rekey the rest to match | A damaged lock is a replacement job, not a rekey ([HomeGuide](https://homeguide.com/costs/cost-to-change-locks)). |
 | The **door or frame** is split and won't latch | **Door/frame repair**, then a new lock | A new lock can't hold in a broken jamb. See costs below. |

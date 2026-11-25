@@ -9,7 +9,7 @@ Ranked by **expected** search demand (high-intent, everyday problems first). The
 - [x] 5. How to find a legitimate 24-hour locksmith near you (verify address, licence, vehicle) (`how-to-find-legitimate-24-hour-locksmith`)
 - [x] 6. Rekey vs. replace locks: which to choose and what each costs (`rekey-vs-replace-locks-cost`)
 - [x] 7. Rekeying your locks after a break-in: what to do in the first 24 hours (`rekeying-locks-after-break-in`)
-8. Lost your keys: should you rekey? (and what if your address was on the keychain)
+- [x] 8. Lost your keys: should you rekey? (and what if your address was on the keychain) (`lost-keys-should-you-rekey`)
 9. Car key replacement when all keys are lost: locksmith vs. dealer cost
 10. Broken key stuck in the lock: what to do and what extraction costs
 11. Locked out of your apartment: landlord, locksmith, or maintenance? Who pays
