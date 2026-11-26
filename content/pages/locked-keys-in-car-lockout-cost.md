@@ -52,7 +52,7 @@ There is no single national price. These sources measure different things:
 
 **What to take from this:** for an ordinary car with the key visible on the seat, something around **$75 to $150 in the daytime and about $150 to $250 at night** is a reasonable expectation in much of the U.S., based on the sources above. Big cities, long drives, holidays, and some luxury or high-security cars can cost more. A phone quote of $15 to $35 is a warning sign, not a bargain (see below). This is our reading of published averages, not a price for your town, so call to confirm.
 
-**Locked in vs. lost.** If the key is inside the car, it's a lockout. If the key is lost or broken, you need a new key cut and programmed, which is a different and pricier job. The Locksmith Ledger survey puts transponder key programming at about **$88** and an "all keys lost" job at about **$228** on average ([Locksmith Ledger](https://www.locksmithledger.com/home/article/55401654/results-are-in-2026-national-average-price-survey)). Lost-key replacement will get its own page.
+**Locked in vs. lost.** If the key is inside the car, it's a lockout. If the key is lost or broken, you need a new key cut and programmed, which is a different and pricier job. The Locksmith Ledger survey puts transponder key programming at about **$88** and an "all keys lost" job at about **$228** on average ([Locksmith Ledger](https://www.locksmithledger.com/home/article/55401654/results-are-in-2026-national-average-price-survey)). For lost-key costs and the locksmith-vs-dealer choice, see [car key replacement when all keys are lost](/car-key-replacement-all-keys-lost-cost/).
 
 ## What people complain about (and how to avoid it)
 
