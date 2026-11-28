@@ -36,7 +36,7 @@ Each source counts the job a little differently (some include the trip fee, some
 | | Smart key $150 to $500+ | [HomeGuide](https://homeguide.com/costs/locksmith-cost) |
 | | Programming a fob or transponder: $50 to $200 | [Fixr](https://www.fixr.com/costs/locksmith-service) |
 | **All car keys lost** | Average **$228** (varies a lot by year, make, and model) | [Locksmith Ledger survey](https://www.locksmithledger.com/home/article/55401654/results-are-in-2026-national-average-price-survey) |
-| **Broken key extraction** | $50 to $200 (home or car) | [Fixr](https://www.fixr.com/costs/locksmith-service) |
+| **Broken key extraction** ([what to do first](/broken-key-stuck-in-lock-extraction-cost/)) | $50 to $200 (home or car) | [Fixr](https://www.fixr.com/costs/locksmith-service) |
 | | $50 to $200 per lock ("lock repair, key extraction") | [HomeGuide](https://homeguide.com/costs/locksmith-cost) |
 | **After-hours / emergency surcharge** | Adds **$50 to $150** per visit | [Angi](https://www.angi.com/articles/keys-home-locksmith-assistance-and-costs.htm) |
 | | Adds **$150 to $250** to open a car or house door after hours; holidays and weekends may cost more | [Fixr](https://www.fixr.com/costs/locksmith-service) |

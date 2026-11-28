@@ -11,7 +11,7 @@ Ranked by **expected** search demand (high-intent, everyday problems first). The
 - [x] 7. Rekeying your locks after a break-in: what to do in the first 24 hours (`rekeying-locks-after-break-in`)
 - [x] 8. Lost your keys: should you rekey? (and what if your address was on the keychain) (`lost-keys-should-you-rekey`)
 - [x] 9. Car key replacement when all keys are lost: locksmith vs. dealer cost (`car-key-replacement-all-keys-lost-cost`)
-10. Broken key stuck in the lock: what to do and what extraction costs
+- [x] 10. Broken key stuck in the lock: what to do and what extraction costs (`broken-key-stuck-in-lock-extraction-cost`)
 - [x] 11. Locked out of your apartment: landlord, locksmith, or maintenance? Who pays (`locked-out-of-apartment-who-pays`)
 12. Moved into a new home or apartment: rekey checklist and cost
 13. What is the $19 locksmith quote? Bait-and-switch explained, with real complaints
